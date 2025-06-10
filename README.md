@@ -62,7 +62,8 @@ To identify and quantify the key financial drivers that influence JPMorgan Chase
 
 - `JP_Morgan_Equity_Model.pdf` – Full project report with results and analysis
 - `README.md` – This documentation file
-
+- `JP_Morgan_Equity_Model.R` – R script used to perform the analysis
+  
 Note: The R script and datasets used are part of academic coursework and are not included here to maintain data integrity and confidentiality.
 
 ---
@@ -78,6 +79,6 @@ Please do not copy, reuse, or distribute any part of this work without explicit 
 
 **Shalini Chhetri**  
 MS in Business Analytics  
-The Tobin College of Business, St John's University
+The Tobin College of Business, St John's University,
 Queens, NY
 
