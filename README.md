@@ -60,7 +60,7 @@ To identify and quantify the key financial drivers that influence JPMorgan Chase
 
 ## Repository Contents
 
-- `Chhetri_JPMorganChase.pdf` – Full project report with results and analysis
+- `JP_Morgan_Equity_Model.pdf` – Full project report with results and analysis
 - `README.md` – This documentation file
 
 Note: The R script and datasets used are part of academic coursework and are not included here to maintain data integrity and confidentiality.
